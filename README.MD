@@ -11,27 +11,27 @@ Uma **Minimal API** desenvolvida com **Fastify** e **TypeScript**, que fornece d
 ## 📦 Instalação
 
 1. Clone este repositório:
-   ```bash
+```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ````
 
 2. Acesse a pasta do projeto:
 
-   ```bash
+```bash
    cd nome-do-repositorio
-   ```
+```
 
 3. Instale as dependências:
 
-   ```bash
+```bash
    npm install
-   ```
+```
 
 4. Inicie o servidor:
 
-   ```bash
+```bash
    npm run dev
-   ```
+```
 
 O servidor será iniciado na porta **3333** por padrão.
 
