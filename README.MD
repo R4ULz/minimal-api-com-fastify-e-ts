@@ -1,8 +1,3 @@
-Segue um **README.md** pronto para o seu projeto Fastify com TypeScript, baseado no código que você me enviou:
-
----
-
-````markdown
 # 🏎️ API de Equipes e Pilotos de Fórmula 1 (2025)
 
 Uma **Minimal API** desenvolvida com **Fastify** e **TypeScript**, que fornece dados de equipes e pilotos da temporada 2025 da Fórmula 1.
